@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Claudio Aracena, PhD in [Engineering Systems at the University of Chile](https://www.dsiuchile.cl/alumnos/alumnos/), and co-founder of [Chatbot Chile](https://chatbotchile.cl)
+- ⭐ Associate researcher at GobLab UAI
 - 👀 I’m interested in Natutal Language Processing 
 - 🌱 I’m currently developing pre-trained language models with clinical text
 
